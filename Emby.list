@@ -1,3 +1,6 @@
+#更新时间2022-12-17
+#https://t.me/ddgksf2021
+
 # > 流媒体emby-nexitally服务器
 DOMAIN,emby.nexitally.com
 
@@ -104,3 +107,6 @@ DOMAIN,emby.p-p.men
 
 # > 流媒体aiyowei服务器
 DOMAIN,emby.aiyowei.ml
+
+# > 流媒体polo服务器
+DOMAIN,poloemby.xyz
