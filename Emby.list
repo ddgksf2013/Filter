@@ -1,4 +1,4 @@
-#更新时间2022-12-17
+#更新时间2023-01-09
 #https://t.me/ddgksf2021
 
 # > 流媒体emby-nexitally服务器
@@ -109,4 +109,22 @@ DOMAIN,emby.p-p.men
 DOMAIN,emby.aiyowei.ml
 
 # > 流媒体polo服务器
-DOMAIN,poloemby.xyz
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+
+# > 流媒体MisakaF服务器
+DOMAIN-SUFFIX,misakaf.org
+
+# > 流媒体GfwEmby服务器
+DOMAIN-SUFFIX,gfwemby.org
+
+# > 流媒体垃圾影音服务器
+DOMAIN-SUFFIX,loseremby.org
+
+# > 流媒体Cc服务器
+DOMAIN,cc.ccemby.tk
+
+# > 流媒体Nebula服务器
+DOMAIN,direct.nebula-emby.com
+
+
