@@ -10,9 +10,9 @@
 // @ScriptURL         https://github.com/ddgksf2013/Filter/raw/master/MyAdRule.list
 // ==/UserScript==
 
-# ~ POLICY✅
+# ======= POLICY✅ ======= #
 
-# ~ DIRECT❌
+# ======= DIRECT ======= #
 HOST, gateway.icloud.com, DIRECT
 HOST, www.libvio.com, DIRECT
 HOST, www.zzzfun.com, DIRECT
@@ -25,8 +25,7 @@ HOST-SUFFIX, apple.com, DIRECT
 
 HOST-KEYWORD, bimiacg, DIRECT
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>StreamingSE
-# ~ bilibili
+# ======= StreamingSE ======= #
 DOMAIN,api.biliapi.com,StreamingSE
 DOMAIN,api.biliapi.net,StreamingSE
 DOMAIN,api.bilibili.com,StreamingSE
@@ -38,39 +37,32 @@ DOMAIN,m.bilibili.com,StreamingSE
 DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
 DOMAIN,www.bilibili.com,StreamingSE
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
-# ~ 愛奇藝台灣站
+
 #DOMAIN,cache.video.iqiyi.com,StreamingSE
 #IP-CIDR,116.211.202.206/32,StreamingSE
 #IP-CIDR,116.211.202.216/32,StreamingSE
 
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Bahamut
-# ~ KKTV
-USER-AGENT,KKTV*,Bahamut
-USER-AGENT,com.kktv.ios.kktv*,Bahamut
-DOMAIN-SUFFIX,kktv.com.tw,Bahamut
-DOMAIN-SUFFIX,kktv.me,Bahamut
-DOMAIN,kktv-theater.kk.stream,Bahamut
-# ~ Bahamut 
+# ======= Bahamut ======= #
+# > Bahamut 
 USER-AGENT,Anime*,Bahamut
 DOMAIN-SUFFIX,bahamut.com.tw,Bahamut
 DOMAIN-SUFFIX,gamer.com.tw,Bahamut
 DOMAIN,gamer-cds.cdn.hinet.net,Bahamut
 DOMAIN,gamer2-cds.cdn.hinet.net,Bahamut
-# ~ Manhuaren
+# > Manhuaren
 DOMAIN-KEYWORD,manhuaren,Bahamut
 HOST-SUFFIX, cdnmanhua.net, Bahamut
 HOST-SUFFIX, cdndm5.com, Bahamut
 HOST-KEYWORD, manhuagui, Bahamut
-# ~ Spotify 
+# > Spotify 
 USER-AGENT,Spotify*,Bahamut
 DOMAIN-SUFFIX,pscdn.co,Bahamut
 DOMAIN-SUFFIX,scdn.co,Bahamut
 DOMAIN-SUFFIX,spotify.com,Bahamut
 DOMAIN-SUFFIX,spoti.fi,Bahamut
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Youtube
-# ~ Youtube
+# ======= Youtube ======= #
 USER-AGENT,com.google.ios.youtube*, Youtube
 USER-AGENT,YouTube*, Youtube
 DOMAIN-SUFFIX,googlevideo.com, Youtube
@@ -80,8 +72,7 @@ DOMAIN,youtubei.googleapis.com, Youtube
 DOMAIN-KEYWORD, hanime, Youtube
 DOMAIN-KEYWORD, google,Youtube
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Twitter
-# ~ Twitter
+# ======= Twitter ======= #
 HOST-SUFFIX,periscope.tv,Twitter
 HOST-SUFFIX,pscp.tv,Twitter
 HOST-SUFFIX,t.co,Twitter
@@ -104,7 +95,7 @@ IP-CIDR,202.160.128.0/22,Twitter
 IP-CIDR,209.237.192.0/19,Twitter
 IP-CIDR,69.195.160.0/19,Twitter
 
-# ~ REJECT🚫
+# ======= REJECT🚫 ======= # 
 HOST-SUFFIX, ywak.com.cn, REJECT
 HOST-SUFFIX, govlaibing.cn, REJECT
 HOST-SUFFIX, log.trackingio.com,REJECT
@@ -161,7 +152,7 @@ HOST, log.ihuman.com, REJECT
 HOST, dc.114dev.com, REJECT
 
 
-# ~ PROXY🔓
+# ======= PROXY🔓 ======= #
 HOST-SUFFIX, epicgames.com, PROXY
 HOST-SUFFIX, manhuacat.com, PROXY
 HOST-SUFFIX, cdn77.org, PROXY
