@@ -1,34 +1,74 @@
-#更新时间2023-01-09
+#======================================#
+#更新时间2023-06-23
 #https://t.me/ddgksf2021
+#======================================#
 
-# > 流媒体emby-nexitally服务器
+
+# > Singularity
+DOMAIN-SUFFIX,singularity.deja-vu.beauty
+
+# > 品云
+DOMAIN-SUFFIX,embyplus.club
+
+# > Netcup
+DOMAIN-SUFFIX,404.sb
+
+# > 佛系
+DOMAIN-SUFFIX,4545.cf
+
+# > 蓝海
+DOMAIN-SUFFIX,blueseacdn.com 
+IP-CIDR,212.90.120.164/32,no-resolve
+
+#> 1111
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,loseremby.org
+
+# > llon plex
+DOMAIN-SUFFIX,plex.direct
+DOMAIN,plex.llon.net
+
+# > texon
+DOMAIN-SUFFIX,texon.fans
+
+# > 剧狗
+DOMAIN-SUFFIX,ju.dog
+IP-CIDR,202.61.255.248/32,no-resolve
+
+# > TreeDiagram
+DOMAIN-SUFFIX,123456.al
+
+# > EMBY 餐厅
+DOMAIN-SUFFIX,mius.uk
+
+# > emby-nexitally
 DOMAIN,emby.nexitally.com
 
-# > 流媒体emby-paoche服务器
+# > emby-paoche
 DOMAIN,emby.cjpc.cc
 
-# > 流媒体emby-flowercloud服务器
+# > emby-flowercloud
 DOMAIN,emby.flowercloud.yt
 
-# > 流媒体emby-maying服务器
+# > emby-maying
 DOMAIN,emby.maying.club
 
-# > 流媒体emby-mdss服务器
+# > emby-mdss
 DOMAIN,emby.mdss.cloud
 
-# > 流媒体emby-ytoo服务器
+# > emby-ytoo
 DOMAIN,emby.ytoo.li
 
-# > 流媒体emby-w8ves服务器
+# > emby-w8ves
 DOMAIN,embyserver.ga
 
-# > 流媒体emby-prpr服务器
+# > emby-prpr
 DOMAIN,emby.prprcloud.com
 
-# > 流媒体emby-nyancat服务器
+# > emby-nyancat
 DOMAIN,emby.nyancat.net
 
-# > 流媒体emby-Plus体验服
+# > emby-Plus
 DOMAIN,emby.plusmedia.site
 DOMAIN,emby-cf.plusmedia.site 
 DOMAIN,emby.xeton.dev
@@ -36,11 +76,11 @@ DOMAIN,jellyfin.xeton.dev
 DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
 
-# > 流媒体emby-Otaku体验服
+# > emby-Otaku
 DOMAIN,emby.otakudrive.life
 DOMAIN,emby2.otakudrive.life 
 
-# > 流媒体emby-jmsooo体验服
+# > emby-jmsooo
 DOMAIN,agahk1.jmsooo.com
 DOMAIN,agasg1.jmsooo.com
 DOMAIN,agajp1.jmsooo.com
@@ -49,25 +89,25 @@ DOMAIN,ntt1.jmsooo.com
 DOMAIN,hinet.jmsooo.com
 DOMAIN,cf1.jmsooo.com
 
-# > 流媒体pornemby服务器
+# > pornemby
 DOMAIN,pornemby.club
 
-# > 流媒体IMM服务器
+# > IMM
 DOMAIN,emby.immtel.com
 
-# > 流媒体Odyssey服务器
+# > Odyssey
 DOMAIN,cf.odysseyplus.site
 DOMAIN,agahk.odysseyplus.site
 DOMAIN,agasg.odysseyplus.site
 DOMAIN,ru.odysseyplus.site
 
-# > 流媒体Exflux服务器
+# > Exflux
 DOMAIN,line.emby.men
 
-# > 流媒体SoCloud服务器
+# > SoCloud
 DOMAIN,emby.run
 
-# > 流媒体普拉斯影业服务器
+# > 普拉斯影业
 DOMAIN,emby.plusmedia.site
 DOMAIN,emby-sg.plusmedia.site
 DOMAIN,emby-cf.plusmedia.site
@@ -76,16 +116,16 @@ DOMAIN,jellyfin.xeton.dev
 DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
 
-# > 流媒体WaveCloud服务器
+# > WaveCloud
 DOMAIN,embyserver.ga
 
-# > 流媒体卷毛鼠服务器
+# > 卷毛鼠
 DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
-# > 流媒体卷毛鼠服务器
+# > 卷毛鼠
 DOMAIN,emby.wtf
 DOMAIN,pub1back.emby.wtf
 DOMAIN,pub2back.emby.wtf
@@ -94,35 +134,35 @@ DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
 
-# > 流媒体熊猫服务器
+# > 熊猫
 DOMAIN,embyclub.com
 DOMAIN,az-hk.embyclub.com
 DOMAIN,azsgp.embyclub.com
 
-# > 流媒体卡戎服务器
+# > 卡戎
 DOMAIN,play.charontv.com
 
-# > 流媒体大白服务器
+# > 大白
 DOMAIN,emby.p-p.men
 
-# > 流媒体aiyowei服务器
+# > aiyowei
 DOMAIN,emby.aiyowei.ml
 
-# > 流媒体polo服务器
+# > polo
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 
-# > 流媒体MisakaF服务器
+# > MisakaF
 DOMAIN-SUFFIX,misakaf.org
 
-# > 流媒体GfwEmby服务器
+# > GfwEmby
 DOMAIN-SUFFIX,gfwemby.org
 
-# > 流媒体垃圾影音服务器
+# > 垃圾影音
 DOMAIN-SUFFIX,loseremby.org
 
-# > 流媒体Cc服务器
+# > Cc
 DOMAIN,cc.ccemby.tk
 
-# > 流媒体Nebula服务器
+# > Nebula
 DOMAIN,direct.nebula-emby.com
