@@ -3,5 +3,4 @@ host-keyword, openai, OpenAI
 host-suffix , identrust.com, OpenAI
 host-suffix , auth0.com, OpenAI
 host-suffix , oaistatic.com, OpenAI
-host-suffix , intercom.io, OpenAI
 host-suffix , oaiusercontent.com, OpenAI
