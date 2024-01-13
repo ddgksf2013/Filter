@@ -1,5 +1,5 @@
 #======================================#
-#更新时间2023-12-01
+#更新时间 2024-01-13
 #https://t.me/ddgksf2021
 #======================================#
 
@@ -170,3 +170,10 @@ DOMAIN,direct.nebula-emby.com
 # > aca
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
+
+# > 玩偶哥哥
+DOMAIN-SUFFIX, wogg.link
+DOMAIN-SUFFIX, wogg.xyz
+
+# > 小纸条
+DOMAIN-SUFFIX, gitcafe.net
