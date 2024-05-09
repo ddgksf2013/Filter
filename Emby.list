@@ -170,3 +170,6 @@ DOMAIN,direct.nebula-emby.com
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
 
+# > ntRRR
+DOMAIN-SUFFIX, stream.ntrrr.top
+DOMAIN-SUFFIX, stream.synn.cc
