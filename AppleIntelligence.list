@@ -2,7 +2,6 @@
 # Update 20251112
 
 
-DOMAIN-SUFFIX, apps.mzstatic.com
 DOMAIN-SUFFIX, gateway.icloud.com
 DOMAIN-SUFFIX, apple-relay.apple.com
 DOMAIN-SUFFIX, apple-relay.fastly-edge.com
