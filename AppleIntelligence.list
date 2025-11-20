@@ -2,10 +2,9 @@
 # Update 20251112
 
 
-DOMAIN-SUFFIX, gateway.icloud.com
-DOMAIN-SUFFIX, apple-relay.apple.com
-DOMAIN-SUFFIX, apple-relay.fastly-edge.com
-DOMAIN-SUFFIX, apple-relay.cloudflare.com
-DOMAIN-SUFFIX, guzzoni.apple.com
-DOMAIN-SUFFIX, cp4.cloudflare.com
-DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+DOMAIN, apple-relay.apple.com
+DOMAIN, apple-relay.fastly-edge.com
+DOMAIN, apple-relay.cloudflare.com
+DOMAIN, guzzoni.apple.com
+DOMAIN, cp4.cloudflare.com
+DOMAIN, gspe1-ssl.ls.apple.com
