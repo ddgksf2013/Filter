@@ -1,5 +1,5 @@
 # AppleIntelligence分流
-# Update 20251112
+# Update 20251124
 
 
 DOMAIN, apple-relay.apple.com
@@ -8,3 +8,9 @@ DOMAIN, apple-relay.cloudflare.com
 DOMAIN, guzzoni.apple.com
 DOMAIN, cp4.cloudflare.com
 DOMAIN, gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX, smoot.apple.com
+DOMAIN, guzzoni.smoot.apple.com
+DOMAIN, api-glb-sea.smoot.apple.com
+DOMAIN, api-p-ap-c.smoot.apple.com
+DOMAIN, api-p-ap-d.smoot.apple.com
+DOMAIN, api-p-ap-e.smoot.apple.com
